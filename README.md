@@ -4,8 +4,6 @@ Este projeto é uma aplicação web simples para **detecção e reconhecimento f
 
 Você pode fazer upload de uma imagem contendo rostos, e o sistema detecta todas as faces presentes, reconhecendo os rostos conhecidos previamente cadastrados. O reconhecimento exibe na caixa de detecção o nome da pessoa junto com a porcentagem de similaridade (mesmo valores baixos são exibidos).
 
----
-
 ## Funcionalidades
 
 - Detecção de múltiplos rostos em imagens usando MTCNN.
@@ -14,8 +12,6 @@ Você pode fazer upload de uma imagem contendo rostos, e o sistema detecta todas
 - Exibição da caixa com o nome do rosto mais parecido e percentual de similaridade.
 - Interface web simples e intuitiva com Streamlit.
 - Upload de imagens para testes diretamente pela interface.
-
----
 
 ## Como usar
 
